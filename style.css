@@ -48,3 +48,30 @@ body {
     justify-content: space-between;
     gap: 300px;
 }
+.butcen {
+display: flex;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.info {
+    border: 7px solid #DC664A;
+    margin-right: 30px;
+    border-radius: 20px;
+}
+.prise {
+    border: 7px solid #DC664A;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+.ain {
+    text-decoration: none;
+    color: antiquewhite;
+}
+.apri {
+    text-decoration: none;
+    color: antiquewhite;
+}
+.aprav {
+    opacity: 1;
+    color: rgba(255, 255, 255, 0.219);
+}
