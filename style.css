@@ -60,11 +60,7 @@ font-family: 'Times New Roman', Times, serif;
     margin-top: -35px;
     border-radius: 20px;
 }
-.ain {
-    text-decoration: none;
-    color: antiquewhite;
-}
-.apri {
+.ain, .aprise {
     text-decoration: none;
     color: antiquewhite;
 }
