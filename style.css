@@ -46,21 +46,18 @@ body {
 .centr {
     display: flex;
     justify-content: space-between;
-    gap: 300px;
+    gap: 400px;
+    font-size: large;
 }
 .butcen {
 display: flex;
 font-family: 'Times New Roman', Times, serif;
 }
 
-.info {
+.info, .prise{
     border: 7px solid #DC664A;
-    margin-right: 30px;
-    border-radius: 20px;
-}
-.prise {
-    border: 7px solid #DC664A;
-    margin-left: 30px;
+    margin-right: 25px;
+    margin-top: -35px;
     border-radius: 20px;
 }
 .ain {
